@@ -78,7 +78,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 🌕今日最低温度：{{min_temperature.DATA}}°
 🌞今日最高温度：{{max_temperature.DATA}}°
 🎂距离你这个小笨蛋的生日还有：{{birthday.DATA}}天
-🏮距离春节还有：{{diff_date1.DATA}}
+🏮距离春节还有：{{diff_date1.DATA}}天
 🌄日出时间：{{sunrise.DATA}}
 🌄日落时间：{{sunset.DATA}}
 🌛夜间天气：{{textNight.DATA}}
@@ -99,7 +99,7 @@ https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login
 🌕今日最低温度：{{min_temperature.DATA}}°
 🌞今日最高温度：{{max_temperature.DATA}}°
 🎂距离你这个小笨蛋的生日还有：{{birthday.DATA}}天
-🏮距离春节还有：{{diff_date1.DATA}}
+🏮距离春节还有：{{diff_date1.DATA}}天
 🌄日出时间：{{sunrise.DATA}}
 🌄日落时间：{{sunset.DATA}}
 🌛夜间天气：{{textNight.DATA}}
